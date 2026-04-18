@@ -1,0 +1,8 @@
+# 自动忽略 C# 无用文件
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.vsconfig
